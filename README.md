@@ -1,2 +1,23 @@
 # Lab-01-Robotica-2025-2
-Laboratorio 1 de Robótica 2025-2s, realizado por Jeison Diaz y Mateo Ramos
+
+# Integrantes
+Jeison Nicolás Diaz Arciniegas
+Mateo Ramos Cujer
+
+# Informe
+
+Indice:
+1. [Diseño de la herramienta](#diseño-de-la-herramienta)
+2. [Calibración](#calibración)
+3. [Simulación](#simulación)
+4. [Salidas y entradas digitales](#salidas-y-entradas)
+5. [Implementación](#implementación)
+5. [Conclusiones y trabajo futuro](#conclusiones)
+
+## Diseño de la herramienta
+## Calibración
+## Simulación
+## Salidas y entradas digitales
+## Implementación
+## Conclusiones y trabajo futuro
+
