@@ -1,8 +1,8 @@
 # Lab-01-Robotica-2025-2
 
 # Integrantes
-Jeison Nicolás Diaz Arciniegas
-Mateo Ramos Cujer
+1. [jdiazar@unal.co](JeisonD0819)
+2. [mramoscu@unal.edu.co](MateoKGR)
 
 # Informe
 
