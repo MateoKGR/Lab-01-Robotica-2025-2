@@ -60,7 +60,7 @@ En la imagen se observan todos los sistemas coordenados (orientados en la misma 
 Una vez hechos los Paths y los Targets se sincronizó la estación con el código para poder ajustar el código de rapid de manera que la simulación sirviera. Importante tener en cuenta que estuvieran creados tanto los Target como los Paths en el código. (El código se encuentra adjunto en este repositorio en la ruta code\rapid\lab01_main.mod)
 
 A continuación la simulación en Robot Studio.
-
+[![Video Simulación](docs/screenshots/targets_paths.png)](videos/demostración_final.mp4)
 
 
 ## Salidas y entradas digitales
