@@ -21,7 +21,7 @@ El diseño se realizó de acuerdo al modelo que nos fue mostrado en clase. Se de
 El primer modelo que desarrollamos, la rosca no funcionaba muy bien debido a las tolerancias utilizadas y haciendo la calibración del robot en la primera práctica libre la rompimos por no utilizar la sensibilidad adecuada durante el proceso, por lo que encontramos una oportunidad de mejora al rediseñarla haciendola más resistente y con mejor ajuste.
 
 Foto de la primera herramienta:
-![Primera Herramienta](\docs\images\Herramienta1.jpg)
+![Primera Herramienta](images/Herramienta1.jpg)
 
 
 A continuación una foto del modelo final desarrollado en inventor con mejor ajuste de tolerancia y una mayor resistencia.
