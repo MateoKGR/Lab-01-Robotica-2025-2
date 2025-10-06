@@ -39,8 +39,8 @@ Foto de la herramienta montada en el robot.
 ## Calibración
 El proceso de calibración del robot con la herramienta nos tomó varias sesiones de práctica libre, inicialmente, nos daba un error de aproximadamente 30 o 40 milimetros, lo cual es demasiado teniendo en cuenta la toleracia de nuestra herramienta, sin embargo, en la tercera sesión ya con la práctica adquirida logramos tener un error de 2.44mm aproximadamente, lo cual es acorde a nuestra toleracia física de 3mm de nuestra herramienta mencionada en la sección anterior.
 A continuación la foto de la herramienta Tool_JM en la pantalla del Flex Pendant.
-![Herramienta Tool_JM](docs\images\tool_JM.jpg)
-![Herramienta Tool_JM](docs\images\tool_JM2.jpg)
+![Herramienta Tool_JM](docs/images/tool_jm.jpg)
+![Herramienta Tool_JM](docs/images/tool_jm2.jpg)
 
 ## Simulación
 ## Salidas y entradas digitales
