@@ -73,6 +73,10 @@ A continuación la simulación en Robot Studio.
 Respecto a la implementación, tuvimos que comunicarnos con el controlador a través de un cable UTP para poder utilizar nuestra rutina, en principio, el reto fue lograr calibrar en el espacio de trabajo el WorkObject para que el robot fuera preciso en llegar y hacer la figura en nuestro WorkObject de la vida real, el cual, como el modelo CAD que hicimos, era una caja de 20x20x5cm.
 Después de iterar varias veces, logramos ajustar con precision el robot con el WorkObject y ejecutamos la rutina teneindo en cuenta las salidas y entradas digitales también. 
 
+A continuación el plano de planta en el laboratorio
+![Diagrama de flujo](docs/images/planoplantareal.jpg)
+
+Por último el video final de la implementación completa
 [Ver video de implementación final](videos/demostración_final.mp4)
 ![Dibujo Final](docs/images/dibujo_final.jpg)
 
