@@ -73,6 +73,7 @@ Existen diferencias clave entre la simulación y la vida real. En la vida real, 
 
 Por otro lado, es evidente que en la vida real las entradas están físicamente conectadas al controlador mediante pulsadores, mientras que en la simulación debemos crear dichas entradas y salidas de forma virtual. Además, es a través del I/O Simulator que se obtienen y gestionan esas señales.
 
+DI_01 inicial la secuencia de dibujo y DI_02 dirige a mantenimiento.
 ![Salidas y entradas](docs/screenshots/salidasentradas1.jpg)
 ![Salidas y entradas](docs/screenshots/salidasentradas2.jpg)
 
