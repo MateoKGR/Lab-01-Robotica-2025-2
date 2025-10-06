@@ -60,11 +60,14 @@ En la imagen se observan todos los sistemas coordenados (orientados en la misma 
 Una vez hechos los Paths y los Targets se sincronizó la estación con el código para poder ajustar el código de rapid de manera que la simulación sirviera. Importante tener en cuenta que estuvieran creados tanto los Target como los Paths en el código. (El código se encuentra adjunto en este repositorio en la ruta code\rapid\lab01_main.mod)
 
 A continuación la simulación en Robot Studio.
-[![Video Simulación](docs/screenshots/targets_paths.png)](videos/demostración_final.mp4)
-
-[Ver video de simulación e implementación](videos/simulacion.mp4)
+[Ver video de simulación](videos/simulacion.mp4)
 
 ## Salidas y entradas digitales
 ## Implementación
+Respecto a la implementación, tuvimos que comunicarnos con el controlador a través de un cable UTP para poder utilizar nuestra rutina, en principio, el reto fue lograr calibrar en el espacio de trabajo el WorkObject para que el robot fuera preciso en llegar y hacer la figura en nuestro WorkObject de la vida real, el cual, como el modelo CAD que hicimos, era una caja de 20x20x5cm.
+Después de iterar varias veces, logramos ajustar con precision el robot con el WorkObject y ejecutamos la rutina teneindo en cuenta las salidas y entradas digitales también. 
+
+[Ver video de implementación final](videos/demostración_final.mp4)
+
 ## Conclusiones y trabajo futuro
 
