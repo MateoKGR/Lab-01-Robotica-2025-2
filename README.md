@@ -94,3 +94,8 @@ A continuación se puede ver en mejor detalle el dibujo final.
 ## Conclusiones y trabajo futuro
 
 En este laboratorio aprendimos a calibrar la herramienta (TCP), generar trayectorias complejas usando MoveJ, MoveL y MoveC, y a integrar señales de E/S digitales para activar rutinas del robot. Aunque hubo desafíos con tolerancias y rutas de herramientas, lograr que el robot dibujara correctamente las letras fue muy satisfactorio. Para trabajos futuros nos gustaría optimizar la fluidez de las trayectorias (reducir movimientos innecesarios), mejorar la robustez de la herramienta frente a variaciones pequeñas, y añadir funciones de detección de fallas o retorno seguro automático si alguna señal no es válida.
+
+Por ultimo una carpeta de drive de respaldo en donde estan algunos archivos adicionales.
+https://drive.google.com/drive/folders/1HUaDqd8Ur396a42qruTMxBDAYdAvl12J?usp=sharing
+
+
