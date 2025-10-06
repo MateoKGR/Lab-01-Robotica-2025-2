@@ -61,6 +61,7 @@ Una vez hechos los Paths y los Targets se sincronizó la estación con el códig
 
 A continuación el diagrama de flujo del código final.
 ![Diagrama de flujo](docs/images/diagrama_flujo.jpg)
+
 A continuación la simulación en Robot Studio.
 [Ver video de simulación](videos/simulacion.mp4)
 
