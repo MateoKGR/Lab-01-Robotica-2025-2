@@ -73,7 +73,8 @@ Existen diferencias clave entre la simulación y la vida real. En la vida real, 
 
 Por otro lado, es evidente que en la vida real las entradas están físicamente conectadas al controlador mediante pulsadores, mientras que en la simulación debemos crear dichas entradas y salidas de forma virtual. Además, es a través del I/O Simulator que se obtienen y gestionan esas señales.
 
-
+![Salidas y entradas](docs/screenshots/salidasentradas1.jpg)
+![Salidas y entradas](docs/screenshots/salidasentradas2.jpg)
 
 ## Implementación
 Respecto a la implementación, tuvimos que comunicarnos con el controlador a través de un cable UTP para poder utilizar nuestra rutina, en principio, el reto fue lograr calibrar en el espacio de trabajo el WorkObject para que el robot fuera preciso en llegar y hacer la figura en nuestro WorkObject de la vida real, el cual, como el modelo CAD que hicimos, era una caja de 20x20x5cm.
