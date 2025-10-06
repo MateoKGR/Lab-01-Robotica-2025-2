@@ -68,6 +68,7 @@ Respecto a la implementación, tuvimos que comunicarnos con el controlador a tra
 Después de iterar varias veces, logramos ajustar con precision el robot con el WorkObject y ejecutamos la rutina teneindo en cuenta las salidas y entradas digitales también. 
 
 [Ver video de implementación final](videos/demostración_final.mp4)
+![Dibujo Final](docs/images/dibujo_final.jpg)
 
 ## Conclusiones y trabajo futuro
 
