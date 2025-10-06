@@ -26,14 +26,14 @@ Foto de la primera herramienta:
 
 
 A continuación una foto del modelo final desarrollado en inventor con mejor ajuste de tolerancia y una mayor resistencia.
-![Screenshot Herramienta](docs\screenshots\Screenshot_Herramienta)
-![Screenshot Tapa Herramienta](docs\screenshots\Screenshot_Tapa_Herramienta)
+![Screenshot Herramienta](docs\screenshots\screenshot_Herramienta)
+![Screenshot Tapa Herramienta](docs\screenshots\screenshot_Tapa_Herramienta)
 
 Plano de la herramienta que también se encuentran en este repositorio (docs\herramienta)
-![Screenshot Plano Herramienta](docs\screenshots\Plano_Herramienta.png)
+![Screenshot Plano Herramienta](docs\screenshots\plano_herramienta.png)
 
 Foto de la herramienta montada en el robot.
-![Herramienta Montada](docs\images\Herramienta_Montada.jpg)
+![Herramienta Montada](docs\images\herramienta_montada.jpg)
 
 ## Calibración
 ## Simulación
