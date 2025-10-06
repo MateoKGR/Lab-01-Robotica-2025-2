@@ -77,7 +77,10 @@ A continuación el plano de planta en el laboratorio
 ![Diagrama de flujo](docs/images/planoplantareal.jpg)
 
 Por último el video final de la implementación completa
-[Ver video de implementación final](videos/demostración_final.mp4)
+[Descargar video de implementación final](videos/demostración_final.mp4)
+[![Ver video de implementación final](https://drive.google.com/file/d/1y21YWbzn5fLWh1WrxwtHsksvoJX55VuU/view?usp=sharing)](https://drive.google.com/file/d/1y21YWbzn5fLWh1WrxwtHsksvoJX55VuU/view?usp=sharing)
+
+A continuación se puede ver en mejor detalle el dibujo final.
 ![Dibujo Final](docs/images/dibujo_final.jpg)
 
 ## Conclusiones y trabajo futuro
