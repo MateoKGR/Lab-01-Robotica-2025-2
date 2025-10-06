@@ -51,7 +51,7 @@ Respecto al manejo de Robot Studio, tuvimos que comenzar por importar los modelo
 ![Work Object](docs/screenshots/workobject.png)
 
 Una vez configurada la herramienta y el posicionado el workobject en el lugar que debería estar según el espacio de trabajo en el laboratorio en la banda transportadora, se comenazaron a crear los Targets, es decir los puntos que debían guiar al robot. 
-Configurados los Targets, se crearon los Paths entre los Targets, es decir, los caminos que debía seguir el robot para hacer el dibujo. Aquí es importante resaltar la importancia de crear bien los Targets, pues se debía alzar el brazo cada vez que se deseaba alcanzar una posición diferente dentro del workobject, de otra manera se pintarían lineas indeseadas. También se tuvo que utilizar diferentes comandos para hacer las lineas curvas o circulos, la instrucción MoveJ realiza desplazamientos rápidos por trayectorias curvas entre puntos mediante el movimiento coordinado de las articulaciones; MoveL mueve la herramienta en línea recta garantizando precisión en trayectorias como líneas o figuras; y MoveC permite describir trayectorias circulares o arcos suaves entre dos posiciones intermedias.
+Configurados los Targets, se crearon los Paths entre los Targets, es decir, los caminos que debía seguir el robot para hacer el dibujo. Aquí es importante resaltar la importancia de crear bien los Targets, pues se debía alzar el brazo cada vez que se deseaba alcanzar una posición diferente dentro del workobject, de otra manera se pintarían lineas indeseadas. TTambién se tuvo que utilizar diferentes comandos para hacer las lineas curvas o circulos, la instrucción MoveJ realiza desplazamientos rápidos por trayectorias curvas entre puntos mediante el movimiento coordinado de las articulaciones; MoveL mueve la herramienta en línea recta garantizando precisión en trayectorias como líneas o figuras; y MoveC permite describir trayectorias circulares o arcos suaves entre dos posiciones intermedias.
 
 ![Targets & Paths creados](docs/screenshots/targets_paths.png)
 
@@ -61,6 +61,9 @@ Una vez hechos los Paths y los Targets se sincronizó la estación con el códig
 
 A continuación el diagrama de flujo del código final.
 ![Diagrama de flujo](docs/images/diagrama_flujo.jpg)
+
+A continuación el plano de planta en el programa Robot Studio
+![Diagrama de flujo](docs/images/planoplanta.png)
 
 A continuación la simulación en Robot Studio.
 [Ver video de simulación](videos/simulacion.mp4)
