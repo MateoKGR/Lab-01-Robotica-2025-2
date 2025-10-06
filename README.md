@@ -64,9 +64,9 @@ A continuación el plano de planta en el programa Robot Studio
 ![Diagrama de flujo](docs/images/planosplanta/planoplanta.png)
 
 A continuación la simulación en Robot Studio.
-[Descargar video de simulación](videos/simulacion.mp4)
+[Descargar video de simulación](videos/video_simulacion.mp4)
 
-[![Ver video de simulación final](docs/images/miniaturavideofinal.png)](https://drive.google.com/file/d/1VK47laKF4UGXl3EBS8Y1yLoJ_qf6WzvL/view?usp=sharing)
+[![Ver video de simulación final](docs/images/miniaturavideofinal.png)](https://drive.google.com/file/d/1EplixDLget5XhaJWOvkBfuuEY-BUYOCa/view?usp=sharing)
 
 ## Salidas y entradas digitales
 Existen diferencias clave entre la simulación y la vida real. En la vida real, la entrada digital acciona directamente un circuito de control que activa el motor de la banda transportadora. En cambio, en la simulación, mediante el uso de smart components, se genera el movimiento de la caja, lo que nos da la sensación de que esta se está desplazando.
