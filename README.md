@@ -80,7 +80,7 @@ A continuación el plano de planta en el laboratorio
 
 Por último el video final de la implementación completa
 [Descargar video de implementación final](videos/demostración_final.mp4)
-![Ver video de implementación final](https://drive.google.com/file/d/1y21YWbzn5fLWh1WrxwtHsksvoJX55VuU/view?usp=sharing)
+[![Ver video de implementación final](docs/images/miniaturavideofinal.png)](https://drive.google.com/file/d/1y21YWbzn5fLWh1WrxwtHsksvoJX55VuU/view?usp=sharing)
 
 A continuación se puede ver en mejor detalle el dibujo final.
 ![Dibujo Final](docs/images/dibujo_final.jpg)
