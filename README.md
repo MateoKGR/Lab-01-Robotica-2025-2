@@ -30,7 +30,7 @@ Foto de la primera herramienta:
 A continuación una foto del modelo final desarrollado en inventor con mejor ajuste de tolerancia y una mayor resistencia.
 ![Screenshot Herramienta](docs/screenshots/screenshotherramienta.jpg)
 
-Plano de la herramienta que también se encuentran en este repositorio (docs\herramienta)
+Plano de la herramienta que también se encuentran en este repositorio con los demás planos (docs\herramienta)
 ![Screenshot Plano Herramienta](docs/screenshots/plano_herramienta.png)
 
 Foto de la herramienta montada en el robot.
@@ -66,7 +66,8 @@ A continuación el plano de planta en el programa Robot Studio
 A continuación la simulación en Robot Studio.
 [Descargar video de simulación](videos/simulacion.mp4)
 
-[![Ver video de simulación final](docs/images/miniaturavideofinal.png)]()
+[![Ver video de simulación final](docs/images/miniaturavideofinal.png)](https://drive.google.com/file/d/1VK47laKF4UGXl3EBS8Y1yLoJ_qf6WzvL/view?usp=sharing)
+
 ## Salidas y entradas digitales
 Existen diferencias clave entre la simulación y la vida real. En la vida real, la entrada digital acciona directamente un circuito de control que activa el motor de la banda transportadora. En cambio, en la simulación, mediante el uso de smart components, se genera el movimiento de la caja, lo que nos da la sensación de que esta se está desplazando.
 
