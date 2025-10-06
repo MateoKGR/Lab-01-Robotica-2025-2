@@ -62,6 +62,7 @@ Una vez hechos los Paths y los Targets se sincronizó la estación con el códig
 A continuación la simulación en Robot Studio.
 [![Video Simulación](docs/screenshots/targets_paths.png)](videos/demostración_final.mp4)
 
+[Ver video de simulación e implementación](videos/simulacion.mp4)
 
 ## Salidas y entradas digitales
 ## Implementación
