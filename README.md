@@ -28,7 +28,7 @@ Foto de la primera herramienta:
 ![Primera Herramienta](docs/images/evidencias/herramienta1.jpg)
 
 A continuación una foto del modelo final desarrollado en inventor con mejor ajuste de tolerancia y una mayor resistencia.
-![Screenshot Herramienta](docs/screenshots/screenshotherramienta)
+![Screenshot Herramienta](docs/screenshots/screenshotherramienta.jpg)
 
 Plano de la herramienta que también se encuentran en este repositorio (docs\herramienta)
 ![Screenshot Plano Herramienta](docs/screenshots/plano_herramienta.png)
