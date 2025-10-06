@@ -66,8 +66,8 @@ A continuación el plano de planta en el programa Robot Studio
 ![Diagrama de flujo](docs/images/planoplanta.png)
 
 A continuación la simulación en Robot Studio.
-[Ver video de simulación](videos/simulacion.mp4)
-
+[Descargar video de simulación](videos/simulacion.mp4)
+[![Ver video de simulación final](docs/images/miniaturavideofinal.png)]()
 ## Salidas y entradas digitales
 Resp
 
